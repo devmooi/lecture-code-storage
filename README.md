@@ -30,6 +30,10 @@
     - #1.2 Requirements - `26.04.18`
     - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스`
       - #1.3 Requirements - `26.04.18`
-- 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스`
+    - 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스`
+      - #1.4 Software Requirements - `26.04.18`
 - ChatGPT Apps 마스터클래스
   - #1.1 Requirements - `26.04.18`
+- [Python으로 웹 스크래퍼 만들기](./python/) `26.04.18 - `
+  - AI Agents 마스터클래스
+    - #0.5 Requirements - `26.04.18`
