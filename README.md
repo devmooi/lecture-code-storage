@@ -22,3 +22,14 @@
 | 12   | 실전! 스프링 부트와 JPA 활용 2 - API 개발과 성능 최적화                          |            |
 | 13   | 실전! 스프링 데이터 JPA                                                          |            |
 | 14   | 실전! Querydsl                                                                   |            |
+
+**노마드 코더**
+
+- [코코아톡 클론코딩](./kokoa-clone/) `26.04.18 - `
+  - 바닐라 JS로 크롬 앱 만들기
+    - #1.2 Requirements - `26.04.18`
+    - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스`
+      - #1.3 Requirements - `26.04.18`
+- 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스`
+- ChatGPT Apps 마스터클래스
+  - #1.1 Requirements - `26.04.18`
