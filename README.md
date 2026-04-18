@@ -26,21 +26,45 @@
 **노마드 코더**
 
 - [코코아톡 클론코딩](./kokoa-clone/) (26.04.18 - )
+  - CSS Layout 마스터클래스
+    - #1.1 Requirements - `26.04.18`
   - 바닐라 JS로 크롬 앱 만들기 `→ n8n 마스터클래스`
     - #1.2 Requirements - `26.04.18`
-    - 유튜브 클론코딩
+    - 유튜브 클론코딩 `→ NestJS로 API 만들기`
       - #1.1 Requirements - `26.04.18`
-    - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스`
+      - GraphQL로 영화 API 만들기 `→ GraphQL로 영화 웹 앱 만들기`
+        - #1.1 Requirements - `26.04.18`
+    - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스, GraphQL로 영화 웹 앱 만들기`
       - #1.3 Requirements - `26.04.18`
-    - 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스`
+      - NextJS 시작하기
+        - #1.3 Requirements - `26.04.18`
+        - 캐럿마켓 클론코딩
+          - #2.1 Requirements - `26.04.18`
+      - 실전형 리액트 Hooks 10개 `→ 우버 이츠 클론코딩`
+        - #0.3 Requirements - `26.04.18`
+      - ReactJS 마스터클래스
+        - #1.1 Requirements - `26.04.18`
+      - 왕초보를 위한 React Native 101
+        - #1.2 Requirements - `26.04.18`
+        - React Native 마스터클래스
+          - #1.1 Theory Requirements - `26.04.18`
+    - 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스, NestJS로 API 만들기`
       - #1.4 Software Requirements - `26.04.18`
 - ChatGPT Apps 마스터클래스
   - #1.1 Requirements - `26.04.18`
 - [SQL 마스터클래스](./sql-masterclass/) (26.04.18 - ) `→ Maker 마스터클래스`
 - Maker 마스터클래스
   - #0.5 Theory Requirements - `26.04.18`
+- NestJS로 API 만들기 `→ 우버 이츠 클론코딩`
+  - #0.2 Requirements - `26.04.18`
+- GraphQL로 영화 웹 앱 만들기 `→ 우버 이츠 클론코딩`
+  - #0.1 Requirements - `26.04.18`
+- 우버 이츠 클론코딩
+  - #1.4 Requirements - `26.04.18`
 - [Python으로 웹 스크래퍼 만들기](./python-for-beginners/) (26.04.18 -) `→ n8n 마스터클래스`
   - AI Agents 마스터클래스
     - #0.5 Requirements - `26.04.18`
+  - 풀스택 GPT
+    - #2.1 Requirements - `26.04.18`
 - n8n 마스터클래스
   - #0.5 Requirements - `26.04.18`
