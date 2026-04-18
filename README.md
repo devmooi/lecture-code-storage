@@ -25,15 +25,20 @@
 
 **노마드 코더**
 
-- [코코아톡 클론코딩](./kokoa-clone/) `26.04.18 - `
-  - 바닐라 JS로 크롬 앱 만들기
+- [코코아톡 클론코딩](./kokoa-clone/) (26.04.18 - )
+  - 바닐라 JS로 크롬 앱 만들기 `→ n8n 마스터클래스`
     - #1.2 Requirements - `26.04.18`
-    - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스`
+    - ReactJS로 영화 웹 서비스 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스`
       - #1.3 Requirements - `26.04.18`
-    - 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스`
+    - 타입스크립트로 블록체인 만들기 `→ ChatGPT Apps 마스터클래스, Maker 마스터클래스`
       - #1.4 Software Requirements - `26.04.18`
 - ChatGPT Apps 마스터클래스
   - #1.1 Requirements - `26.04.18`
-- [Python으로 웹 스크래퍼 만들기](./python/) `26.04.18 - `
+- SQL 마스터클래스 `→ Maker 마스터클래스`
+- Maker 마스터클래스
+  - #0.5 Theory Requirements - `26.04.18`
+- [Python으로 웹 스크래퍼 만들기](./python/) (26.04.18 -) `→ n8n 마스터클래스`
   - AI Agents 마스터클래스
     - #0.5 Requirements - `26.04.18`
+- n8n 마스터클래스
+  - #0.5 Requirements - `26.04.18`
