@@ -1,1 +1,1 @@
-print("Hello world!")
+my_age = 12

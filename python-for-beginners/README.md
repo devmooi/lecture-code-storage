@@ -8,7 +8,25 @@
 print("Hello world!")
 ```
 
-#### #2.1 Variables
+#### #2.1 Variables (26.04.20)
+
+```python
+a = 2
+b = 3
+c = a + b
+a = 1
+b = 10
+print(c) # 5
+```
+
+- Camel Case는 자바스크립트에서 사용되는 관습
+- 파이썬에서 가장 많이 쓰이는 방법은 Snake Case로 \_를 이용
+- variable은 숫자로 시작할 수는 없고 안에 숫자를 넣는 건 괜찮음
+- 특수문자로도 시작할 수 없고 시작은 항상 글자로 해야 함
+
+```python
+my_age = 12
+```
 
 #### #2.2 Booleans and Strings
 
