@@ -2,7 +2,7 @@
 
 ### #1 INTRODUCTION
 
-#### #1.3 Why You Should Learn SQL
+#### #1.3 Why You Should Learn SQL (26.04.18)
 
 - SQL을 배워야하는 이유
   - 데이터는 어디에나 있음
@@ -14,7 +14,37 @@
 - ORM : 프로그래밍 언어 구조로 이루어진 객체를 SQL 코드로 번역 해주는 도구
   - 개발자들은 SQL 코드를 작성할 필요없고 사용하고 있는 프로그래밍 언어로 만든 객체를 SQL 쿼리로 변환
 
-#### #1.4 What is SQL
+#### #1.4 What is SQL (26.04.20)
+
+- SQL은 1970년대 만들어졌음
+  - SQL의 창시자는 SQUARE라는 데이터베이스를 만들었음
+  - SQUARE 보다 더 나은 SEQUEL를 만들었음
+  - SEQUEL(Structured English Query Language)은 당시 단어가 저작권에 걸림
+  - 그래서 만들어진게 SQL(Structured Query Language)
+  - SQL은 RDBMS라고 불리는 것 안에 있는 데이터를 관리하기 위해서 사용
+- RDBMS (Relational Database Management System)
+  - 관계형 데이터베이스와 대화할 수 있게 해주는 프로그램
+  - SQLite, MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, Oracle SQL
+- 관계형 데이터베이스는 데이터들을 테이블 안에 저장하는 데이터베이스
+  - 엑셀 시트처럼 데이터를 정리하는 데이터베이스라고 생각하면 됨
+  - 행과 열이 있는 테이블에 데이터를 저장하는 데이터베이스
+- SQL은 선언형 언어
+  - 선언형이라는 것은 SQL로 무언가를 하는 방법을 설명할 필요가 없다는 것
+  - 원하는 것만 말하면 됨
+- 이식성이란 sqlite에서 작성한 코드가 postgreSQL, MariaDB, MySQL에서도 잘 작동하는가?
+  - SQL에는 표준이 존재하지만 해당 표준을 100% 구현하는 데이터베이스는 없음
+  - 같은 언어를 사용한다고 해서 기능이 같거나 서로 상호작용 가능하다는 것은 아님
+- 개념은 이식성이 있음
+  - Data Types, Table, Rows, Columns 등과 같은 개념은 이식 가능
+  - SELECT, Group By, Aggregate functions 등은 모두 이식 가능
+- SQL은 그 자체로 하나의 언어가 아님
+  - Data Definition Language (DDL) : 데이터베이스에 들어갈 데이터를 정의할 때 사용하는 언어
+    - 기본적으로 데이터베이스에 우리가 저장할 데이터의 타입을 설명하는데 사용
+  - Data Manipulation Language (DML) : 데이터를 조작할 때 사용하는 언어
+    - 데이터베이스에 데이터를 넣거나, 업데이트하거나, 삭제할 때 사용
+    - 데이터베이스에서 데이터를 select하고 query하는데도 사용
+  - Transaction Control Language (TCL)
+  - Data Control Language (DCL) : 누가 읽고, 수정할 수 있는지를 설정
 
 #### #1.5 Course Roadmap
 
