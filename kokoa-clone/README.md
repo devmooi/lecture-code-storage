@@ -11,7 +11,19 @@
 
 #### #2.1 Setup and Errors
 
-#### #2.2 Our First HTML Tag
+- Extensions
+  - Material Icon Theme
+- 브라우저는 HTML 파일에 에러가 있다는 것을 안 알려준다
+  - 규칙을 따르지 않더라도 작성된 내용을 보여준다
+  - 코드가 규칙대로 작성 되있다면 그대로 보여준다
+
+#### #2.2 Our First HTML Tag (26.04.19)
+
+```html
+<tag>content</tag>
+```
+
+- h1 ~ h6
 
 #### #2.3 More Tags and Prettier
 
